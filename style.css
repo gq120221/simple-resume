@@ -78,7 +78,9 @@ section.contacts {
 section.contacts > dl{
     display: flex;
     flex-wrap: wrap;
-    width: 20em;
+    width: 20em; 
+    text-align: center;
+}
 }
 section.contacts > dl a{
     text-decoration: underline;
